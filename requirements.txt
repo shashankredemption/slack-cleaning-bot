@@ -1,0 +1,2 @@
+sendgrid == 1.5.8
+slacker == 0.7.3
